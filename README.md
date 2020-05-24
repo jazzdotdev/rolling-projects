@@ -1,7 +1,5 @@
 # Rolling Projects
 
-project management docs and its own change management
-
 <p align="center"><a href=""><img src="https://alchetron.com/cdn/upstream-petroleum-industry-52ff3854-1318-4ea2-aaf5-43a5316bf09-resize-750.jpg" alt="river-upstream-downstream"></p>
 
 https://github.com/foundpatterns/issue-labels
