@@ -7,3 +7,5 @@
 https://github.com/foundpatterns/speakeasy/issues/16
 
 https://github.com/lighttouch-packages/change-management
+
+https://github.com/Relequestual/sensible-github-labels
